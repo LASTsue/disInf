@@ -1,0 +1,20 @@
+1 The pilot is skillful
+1 The plane is fast
+0 A driver drives skillfully
+0 A driver drives at high speeds
+1 The airplane is slow
+0 Highways are for cars
+0 Roads are for driving fast
+0 Drive well on the road
+0 Drive skillfully on the highway
+0 People drive at low speeds
+1 The sky is blue
+1 The airport is crowded
+1 The man flies the plane
+1 The pilot flies skillfully
+0 Drive at a low speed
+0 People drive slowly
+0 A woman drives fast on the highway
+0 People drive at high speeds
+0 A driver drives at low speeds
+0 A man drives at low speeds

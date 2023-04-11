@@ -1,0 +1,18 @@
+0 People drive cars
+0 A driver drives well
+0 A woman drives fast
+1 The plane flies at high speed
+1 The airplane flies at low speed
+1 The sky is vast
+1 The airport is noisy
+1 The man flies the airplane
+0 A man drives skillfully
+0 Cars drive on highways
+1 The man is a pilot
+1 The pilot lands the plane
+0 Roads are for driving
+0 Drive at a high speed
+1 The airplane flies in the sky
+1 The airport has many planes
+1 The airplane takes off from the airport
+1 The sky has many airplanes

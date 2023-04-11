@@ -1,0 +1,60 @@
+1 The pilot flies the plane
+1 The plane flies slow
+0 A woman drives on the highway
+0 A man drives on the road
+1 The airplane flies fast  
+1 The airport has a runway 
+0 Cars drive fast
+0 Highways are for driving
+0 Roads are for cars
+0 Drive well on the highway
+0 Drive skillfully on the road
+1 A plane flies in the sky
+1 A man lands an airplane 
+1 The airplane lands smoothly 
+0 People drive at high speeds
+0 A driver drives at low speeds
+0 A woman drives slowly
+0 A man drives fast
+1 The pilot controls the speed 
+1 The man controls the plane 
+1 The pilot navigates the sky 
+0 Cars drive on roads
+1 The airplane flies high
+1 The pilot flies low
+1 A skillful pilot lands the plane
+1 An airplane takes off from the airport
+1 The pilot flies through the clouds
+1 The airport is busy with planes
+0 Highways are for driving skillfully
+0 Roads are for driving slowly
+1 The sky is clear for flying 
+1 The airport is busy
+1 The man flies fast
+1 The airport is busy with planes 
+0 Drive fast on the highway
+0 Drive slowly on the road
+0 People drive cars skillfully
+0 A driver drives well on the highway
+1 The pilot takes off from the airport
+1 The airplane lands at the airport
+1 The sky has many planes flying high
+1 The airport has many airplanes landing
+0 A woman drives at high speeds
+0 A man drives at low speeds
+0 Cars drive fast on roads 
+0 Highways are for driving fast 
+0 Roads are for driving well 
+0 People drive cars on highways 
+0 A driver drives a car well 
+0 A woman drives a car skillfully 
+0 A man drives a car fast 
+0 Cars drive at high speeds 
+0 Highways have high speed limits
+1 The airport has many pilots
+0 Drive skillfully in a car 
+0 Drive slowly in a car 
+1 The man lands the plane skillfully
+1 A man flies a plane
+0 A man drives slowly on the road
+0 Cars drive well on highways
